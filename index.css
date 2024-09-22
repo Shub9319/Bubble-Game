@@ -175,3 +175,12 @@ body {
     cursor: pointer;
     background-color:rgb(81, 27, 7);
 }
+
+footer{
+    height: 8%;
+    background-color: rgb(54, 35, 12);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
