@@ -44,7 +44,7 @@ body {
     margin: 0px auto 0px auto;
     color: white;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 30px;
     font-family:monospace;
 }
 
@@ -67,7 +67,7 @@ body {
     border-radius: 10px;
     border-width: 5px;
     color: rgb(91, 63, 29);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Courier New', monospace;
 }
 
 .startbtn {
