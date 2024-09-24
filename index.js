@@ -1,6 +1,6 @@
 let timer = 30
 let hit = 2
-var score = 0
+let score = 0
 
 function createBalls() {
     let clutter = '';
